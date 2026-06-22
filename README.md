@@ -1,2 +1,2 @@
-# semana-acad-mica
+# semana-acadêmica
 oficina git
